@@ -8,8 +8,11 @@ Implementação dos seguintes algoritmos de ordenação em Python:
 • Insertion sort: Wikipedia ([en](https://en.wikipedia.org/wiki/Insertion_sort) | [pt](https://pt.wikipedia.org/wiki/Insertion_sort)), YouTube ([en](https://www.youtube.com/watch?v=DFG-XuyPYUQ)), Khan Academy ([en](https://pt.khanacademy.org/computing/computer-science/algorithms/insertion-sort/a/insertion-sort-pseudocode))
 ## Screenshots
 
-![Screenshot 01](/imagens/screenshot_01.png)
-![Screenshot 02](/imagens/screenshot_02.jpg)
+• Inserindo nome do arquivo com lista a ser ordenada:
+![Screenshot 01](./imagens/screenshot_01.png)
+
+• Resultado de um caso de execução:
+![Screenshot 02](./imagens/screenshot_02.jpg)
 
 
 ## Funcionalidades
