@@ -18,7 +18,7 @@ Implementação dos seguintes algoritmos de ordenação em Python:
 ## Funcionalidades
 
 - Menu de seleção de algoritmo
-- Medição de tempo em milisegundos da execução do algoritmo
+- Medição de tempo em milissegundo da execução do algoritmo
 - Multiplataforma
 
 
