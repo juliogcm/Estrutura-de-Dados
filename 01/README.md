@@ -1,0 +1,25 @@
+
+# Ordenação por Comparação 1
+
+Implementação dos seguintes algoritmos de ordenação em Python:
+
+• Selection sort: Wikipedia ([en](https://en.wikipedia.org/wiki/Selection_sort) | [pt](https://pt.wikipedia.org/wiki/Selection_sort)), YouTube ([en](https://www.youtube.com/watch?v=f8hXR_Hvybo)), Khan Academy ([pt](https://pt.khanacademy.org/computing/computer-science/algorithms/sorting-algorithms/a/selection-sort-pseudocode))
+
+• Insertion sort: Wikipedia ([en](https://en.wikipedia.org/wiki/Insertion_sort) | [pt](https://pt.wikipedia.org/wiki/Insertion_sort)), YouTube ([en](https://www.youtube.com/watch?v=DFG-XuyPYUQ)), Khan Academy ([en](https://pt.khanacademy.org/computing/computer-science/algorithms/insertion-sort/a/insertion-sort-pseudocode))
+## Screenshots
+
+![Screenshot 01](/imagens/screenshot_01.png)
+![Screenshot 02](/imagens/screenshot_02.jpg)
+
+
+## Funcionalidades
+
+- Menu de seleção de algoritmo
+- Medição de tempo em milisegundos da execução do algoritmo
+- Multiplataforma
+
+
+## Autor
+
+- [@JGusmao](https://github.com/JGusmao)
+
