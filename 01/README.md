@@ -21,6 +21,8 @@ Implementação dos seguintes algoritmos de ordenação em Python:
 - Medição de tempo em milissegundo da execução do algoritmo
 - Multiplataforma
 
+Execução através do terminal inserindo:
+python -u "insertion_selection.py"
 
 ## Autor
 
