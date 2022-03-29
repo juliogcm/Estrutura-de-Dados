@@ -16,7 +16,7 @@ def insertionSort(lista):
     for i in range(1, len(lista)):
         key = lista[i]
 
-        # Troca de lugar os elementos da lista que são maiores que a chave para uma posição a frente de sua posição atual.
+        # Troca de lugar os elementos da lista que são maiores que a chave para uma posição à frente de sua posição atual.
         j = i-1                             
         while j >= 0 and key < lista[j] :
                 lista[j + 1] = lista[j]
@@ -45,13 +45,13 @@ def print_menu():
 
 def main():
     arq = input('\nDigite o nome do arquivo na pasta raiz com extensão (ex.: meuarq.txt): ')
-    dados = tuple(open(arq, 'r'))  #Abre o arquivo com cada linha sendo um elemento.
+    dados = tuple(open(arq, 'r'))            #Abre o arquivo com cada linha sendo um elemento.
     Coleta_dados(dados)                      #Coleta dados necessários e cria lista de elementos.
 
     #print(f"Número de elementos: {N}\n|Lista de elementos original: {lista}")
 
     while(True):
-        lista = mlista       #Reseta os elementos
+        lista = mlista                       #Reseta os elementos
         print_menu()
         option = ''
         try:
