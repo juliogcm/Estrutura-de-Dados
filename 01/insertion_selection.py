@@ -68,7 +68,7 @@ def main():
 
         elif option == 2:
             inicio = time.time()
-            insertionSort(lista)
+            selectionSort(lista)
             fim = time.time()
             print('Opção escolhida \'Selection Sort\'')
             print(f"\nLista ordenada: {lista}\n\nTempo de execução: {fim - inicio}ms\n")
