@@ -32,5 +32,5 @@ A instância principal está no diretório raiz e as demais na pasta "instancias
 
 ## Autor
 
-- [@JGusmao](https://github.com/JGusmao)
+- [@juliogcm](https://github.com/juliogcm)
 
