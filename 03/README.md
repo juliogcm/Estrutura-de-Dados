@@ -8,7 +8,7 @@ Implementação dos seguintes algoritmos de ordenação em Python:
 
 ## Screenshots
 
-![Screenshot 01](/imagens/screenshot_01.png)
+![Screenshot 01](imagens/screenshot_01.png)
 
 ## Funcionalidades
 
