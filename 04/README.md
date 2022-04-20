@@ -17,7 +17,7 @@ Implementação do seguinte algoritmo de ordenação em Python:
 ## Execução
 
 Execução através do terminal na pasta do arquivo inserindo:
-python -u "insertion_selection.py"
+python -u "heapSort.py"
 
 ## Instâncias
 
