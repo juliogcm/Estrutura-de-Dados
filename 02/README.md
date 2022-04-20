@@ -2,7 +2,7 @@
 
 Implementação dos seguintes algoritmos de ordenação em Python:
 
-• Selection sort: Wikipedia ([pt](https://pt.wikipedia.org/wiki/Selection_sort)), YouTube ([pt](https://www.youtube.com/watch?v=ZT_dT8yn48s)))
+• Merge sort: Wikipedia ([en](https://en.wikipedia.org/wiki/Merge_sort)), YouTube ([pt](https://www.youtube.com/watch?v=5prE6Mz8Vh0)))
 
 • Quick sort: Wikipedia ([pt](https://pt.wikipedia.org/wiki/Quicksort)), YouTube ([pt](https://www.youtube.com/watch?v=wx5juM9bbFo)))
 
