@@ -19,7 +19,7 @@ Implementação dos seguintes algoritmos de ordenação em Python:
 ## Execução
 
 Execução através do terminal na pasta do arquivo inserindo:
-python -u "insertion_selection.py"
+python -u "counting_radix.py"
 
 ## Instâncias
 
