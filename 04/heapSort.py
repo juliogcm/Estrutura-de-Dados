@@ -52,9 +52,13 @@ def constroiHeapMaxima(mheap):
 def heapSort(mheap):
     global N
   
-    # One by one extract elements
+    # Vai extraindo os elementos um por um para a lista ordenada final
+    # Retira o elemento RAIZ, por ser sempre o maior na Heap Máxima, e o coloca no fim da lista ordenada final.  
+    # O elemento RAIZ é substituido pelo último elemento da heap e ela tem seu tamanho diminuido. 
+    # A função heapMaximo é aplicada novamente para que o maior elemento esteja na RAIZ e o processo se repita até 
+    # o número de elementos ter acabado.
     for i in range(N-1, 0, -1):
-        mheap[i], mheap[0] = mheap[0], mheap[i]   # swap
+        mheap[i], mheap[0] = mheap[0], mheap[i]   # Troca os elementos
         heapMaximo(mheap, i, 0)
 
 def main():       
